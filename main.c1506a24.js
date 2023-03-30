@@ -3494,6 +3494,7 @@ function random(seed) {
                 <p>
                 Guess the <strong>Rewardle</strong> in 6 tries.</p>
                 <p>Guess the reward you need to pay Bethan today.</p>
+                <p>If you try and tamper with the rules, you must pay an additional £500,000 penalty.</p>
                 <p>If you don't guess the reward within 5 minutes you must pay her a £100,000 reward.</p>
                 <p>Each guess must be a valid 5 digit number. Hit the enter button to submit.</p>
                 <p>After each guess, the color of the tiles will change to show how close your guess was to the number.</p>
